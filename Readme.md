@@ -1,12 +1,12 @@
 CS676A Project - Group 1
 ========
-**Shubham Jain - 13683**  
-**Vikas Jain - 13788**  
+**Vikas Jain - 13788**
+**Shubham Jain - 13683**    
 
-###Langauges:
+### Langauges:
 Python and Matlab
 
-###Papers followed:
+### Papers followed:
 1. Parikh, Devi, and Kristen Grauman. "Relative attributes." Computer Vision (ICCV), 2011 IEEE International Conference on. IEEE, 2011.
 2. Burges, Chris, et al. "Learning to rank using gradient descent." Proceedings of the 22nd international conference on Machine learning. ACM, 2005.
 
@@ -14,13 +14,13 @@ Python and Matlab
 
 4. Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014).
 
-###Dataset:
+### Dataset:
 PubFig Dataset  
 "Attribute and Simile Classifiers for Face Verification,"
 Neeraj Kumar, Alexander C. Berg, Peter N. Belhumeur, and Shree K. Nayar,
 International Conference on Computer Vision (ICCV), 2009.
 
-###Code
+### Code
 Our project consisted of three parts - **feature extraction** and **two ranking models** (RankSVM and RankNet).  
 Each part has separate folder in _code/_ directory with their separate README file.  
 See README file of each part for the dependencies and commands to execute the code.  
